@@ -1,6 +1,5 @@
-# Subject "Desing of interface"
+# Exercises for the subject "Interfaces design", GII 
 
-Exercises for the subject algorithmic, GII
 
 **Table of Contents:**
 
